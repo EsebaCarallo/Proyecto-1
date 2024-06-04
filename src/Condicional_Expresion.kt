@@ -22,10 +22,12 @@ fun main(){
     println(resultado)
 
      */
-
+/*
     println("Ingrese numero entre 1-99:")
     val num: Int = readln().toInt()
     val cant = if (num >= 10) println("$num tiene 2 digitos") else println("$num tiene 1 digito")
+
+ */
 
 
 

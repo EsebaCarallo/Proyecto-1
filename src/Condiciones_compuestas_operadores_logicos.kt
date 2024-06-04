@@ -91,7 +91,7 @@ fun main() {
                     print("Esta en un eje")
     */
 
-    /* print("Ingrese primer valor:")
+     print("Ingrese primer valor:")
      val valor1 = readln().toInt()
      print("Ingrese segundo valor:")
      val valor2 = readln().toInt()
@@ -102,7 +102,7 @@ fun main() {
      val mayor = if (valor1 > valor2 && valor1 > valor3)
      valor1 else if (valor2 > valor3) valor2 else valor3
      print("El mayor de la lista es $mayor y el menor $menor")
- */
+
 
 
 }

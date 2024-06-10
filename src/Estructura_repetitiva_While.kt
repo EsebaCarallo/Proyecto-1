@@ -163,8 +163,8 @@ fun main() {
        else
            impares = impares + 1
    }
-   println("La cantidad de numero pares es: $pares")
-   println("La cantidad de numero impares es: $impares")
+   println("La cantidad de numeros pares es: $pares")
+   println("La cantidad de numerosg impares es: $impares")
    */
 }
 

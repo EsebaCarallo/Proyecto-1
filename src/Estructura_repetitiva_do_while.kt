@@ -96,7 +96,7 @@ fun main() {
         if (cuenta >= 0){
             print("Ingrese el saldo actual: ")
             val saldo = readln().toDouble()
-            
+
             if (saldo > 0.0) {
                 println("Estado de la cuenta: Acreedor")
                 saldos += saldo

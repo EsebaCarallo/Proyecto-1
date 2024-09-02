@@ -14,7 +14,7 @@ class clase {
     fun imprimir() {
         println("Lista del arreglo")
         for(i in arre.indices)
-            println("-${arre[i]}")
+            println("bdg${arre[i]}")
     }
 
     fun mayor() {

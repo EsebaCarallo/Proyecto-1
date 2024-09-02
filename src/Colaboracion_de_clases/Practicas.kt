@@ -1,6 +1,6 @@
 package Colaboracion_de_clases
 
-class Socio(val nombre: String, val antiguedad: Int)pzdf
+class Socio(val nombre: String, val antiguedad: Int)
 class Club(val socio1: Socio, val socio2: Socio, val socio3: Socio) {
 
 
